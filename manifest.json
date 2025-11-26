@@ -22,6 +22,24 @@
         "en"
       ]
     },
+     {
+      "id": "KlonTv",
+      "name": "KlonTv",
+      "description": "KlonTv direct links",
+      "version": "1.0.0",
+      "author": "Nuvio Team",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/KlonTv.js",
+      "enabled": true,
+      "formats": ["mkv"],
+      "logo": "https://klon.fun/favicon.ico",
+      "contentLanguage": [
+        "uk"
+      ]
+    },
     {
       "id": "animekai",
       "name": "AnimeKai",
